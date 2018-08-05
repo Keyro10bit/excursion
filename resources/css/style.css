@@ -1,0 +1,13 @@
+body{
+  font-family: verdana;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+p, a{
+  color: aquamarine;
+}
+.footer p{
+  text-align: right;
+  color: gray;
+}
